@@ -8,8 +8,7 @@
     },
     "dependencies": {
         "react": "*",
-        "react-router": "*",
-        "classnames": "*"
+        "react-router": "*"
     },
     "devDependencies": {
         "babel-loader": "*",

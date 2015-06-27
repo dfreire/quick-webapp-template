@@ -1,9 +1,6 @@
-var path = require('path');
-
 var config = {
-    entry: ['./js/main.jsx'],
+    entry: ['./js/app.jsx'],
     output: {
-        path: path.resolve(__dirname, '../public'),
         filename: 'bundle.js'
     },
     module: {
